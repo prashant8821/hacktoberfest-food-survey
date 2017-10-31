@@ -22,3 +22,7 @@
 [Sanushen](https://github.com/sanushen)
 - Age: 28
 - Favorite Food(s): Samoosa
+
+[prashant8821](https://github.com/prashant8821)
+- Age: 29
+- Favorite Food: Steak
